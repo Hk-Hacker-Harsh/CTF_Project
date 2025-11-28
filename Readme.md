@@ -23,8 +23,7 @@ In case the Flag doesn't look like as it should be... Put it inside IITMCC{< HER
 
 ## Very Easy (Too easy. If you still cant do it... Go back to Basics)
 
-1. Before we begin. Let's Talk.... I mean to them... to Computers...
-<br>
+1. Before we begin. Let's Talk.... I mean to them... to Computers...<br>
 `01001001 01001001 01010100 01001101 01000011 01000011 01111011 01000010 01101001 01101110 01100001 01110010 01111001 01011111 01000010 01101111 01110011 01110011 01111101
 `
 
