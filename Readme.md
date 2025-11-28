@@ -25,21 +25,18 @@ In case the Flag doesn't look like as it should be... Put it inside IITMCC{< HER
 
 1. Before we begin. Let's Talk.... I mean to them... to Computers...
 <br>
-
 `01001001 01001001 01010100 01001101 01000011 01000011 01111011 01000010 01101001 01101110 01100001 01110010 01111001 01011111 01000010 01101111 01110011 01110011 01111101
 `
 
 2. LOL... Which String have == at the End. This is definately a Mistake... ignore it
 <br>
-
 `SUlUTUNDezNuY29kZXJfUHIwfQ==`
 
 3. Sounds like Language from other World... Oh god it can be illuminati.. My brain is ROTating
-
 <br>
-
 `Url... NV vf abg Nyybjrq... Cyrnfr Fgbc....
 VVGZPP{Y3g'f_Ebg@g3}`
+
 
 4. LOL... Sounds like Detective Movie..
 [Download File Here.](/Assets/Morse_Audio_Final.wav)
@@ -47,10 +44,11 @@ VVGZPP{Y3g'f_Ebg@g3}`
 
 ## Easy
 
-1. If you cant see... It doesn't mean Nothing is there...
+1. If you cant see... It doesn't mean Nothing is there...<br>
+Dont be afraid.... I was talking about shadows and darkness...
 <br>
-Dont be afraid.... I was talking about shadows and darkness...<br>
 [Download File Here.](/Assets/Same%20Color%20Final.png) 
+
 
 2. Do you Know Mr.... `Harsh Khandal` Hates Blue Bird.... 27/11
 
@@ -64,8 +62,7 @@ Dont be afraid.... I was talking about shadows and darkness...<br>
 [Click Here](/Site/index.html) 
 
 3. 12.991689124646834, 80.23371734829608
-<br>
-5 Star?? @ 27...11...
+<br> 5 Star?? @ 27...11...
 
 4. Did you checked server.... I have uploaded some cute cat pics.... Check in your Browser....Cats are so cute im sure they dont have flag.... Or they??...?
 
@@ -74,8 +71,7 @@ Dont be afraid.... I was talking about shadows and darkness...<br>
 
 ## Hard
 
-1. Do you Know about GOD of Network Analysis..... No?? There is something above Wires and Sharkssss...
-<br>
+1. Do you Know about GOD of Network Analysis..... No?? There is something above Wires and Sharkssss...<br>
 [Download File Here.](/Assets/Network_Logs.pcapng)
 
 2. My DoG aTe MY QrCoDE...... NONONOON<br>
@@ -88,8 +84,6 @@ Dont be afraid.... I was talking about shadows and darkness...<br>
 
 4. Oh Noooo!!! Last time my Dog and Now My Python ate My Flag....<br>
 And in return Gave me this... Eehhhh Shit...<br>
-
 `28321539130a2c180a6621150a3b653d212c052e161618011c1c`<br>
-
 [Download File Here.](/Reverse.py)
 
