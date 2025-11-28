@@ -1,9 +1,8 @@
 # CTF Project
-What is this??<br>
-You can say this is a game for computer nerds, NO previous knowledge required. The more you know about computer the better you will perform.
+
+D0n't Ask me What is this..... Bas kuch toh h, Try Karo....
 
 AIM: Make you learn something new... NO Specific Tools Needed.
-
 <br>
 
 <b>
@@ -72,11 +71,11 @@ Dont be afraid.... I was talking about shadows and darkness...<br>
 
 2. My DoG aTe MY QrCoDE...... NONONOON<br>
 [Download File Here.](/Qrcode%20half/QrcodeHalf.png)<br>
-[Hint.... In case u r on wring path](https://www.linkedin.com/posts/harsh-khandal-4941522b1_always-ready-to-learn-new-things-just-activity-7241484215593132033-GwZ6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAErzQTABHZJjcjK5KaOr0yfZZMawQ-m-CSI)
+[Hint.... In case u r on wrong path](https://www.linkedin.com/posts/harsh-khandal-4941522b1_always-ready-to-learn-new-things-just-activity-7241484215593132033-GwZ6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAErzQTABHZJjcjK5KaOr0yfZZMawQ-m-CSI)
 
 3. Imagine.... A Image Made out of AUDIOOO..... Ha ha ha,,, That's Not Possible... Not Possible Na??<br>
 [Download File Here.](/Spectrogram/Spectrogram.wav)<br>
-[Hint.... In case u r on wring path](/Spectrogram/Spectrogram-Hint.png)
+[Hint.... In case u r on wrong path](/Spectrogram/Spectrogram-Hint.png)
 
 4. Oh Noooo!!! Last time my Dog and Now My Python ate My Flag....<br>
 And in return Gave me this... Eehhhh Shit...<br>
