@@ -9,7 +9,7 @@ AIM: Make you learn something new... NO Specific Tools Needed.
 <b>
 Flag : IITMCC{Fl@g_L00Ks_Lik3_M3}
 <br>
-In case no info given, assume it is related to server use IP : 4.194.181.183</b>
+In case no info given, assume it is related to server use IP : 4.194.181.183 (If Server seems Down... MSG Me...)</b>
 
 <br>
 
