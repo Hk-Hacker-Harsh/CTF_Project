@@ -27,25 +27,22 @@ In case the Flag doesn't look like as it should be... Put it inside IITMCC{< HER
 `01001001 01001001 01010100 01001101 01000011 01000011 01111011 01000010 01101001 01101110 01100001 01110010 01111001 01011111 01000010 01101111 01110011 01110011 01111101
 `
 
-2. LOL... Which String have == at the End. This is definately a Mistake... ignore it
-<br>
+2. LOL... Which String have == at the End. This is definately a Mistake... ignore it<br>
 `SUlUTUNDezNuY29kZXJfUHIwfQ==`
 
-3. Sounds like Language from other World... Oh god it can be illuminati.. My brain is ROTating
-<br>
+3. Sounds like Language from other World... Oh god it can be illuminati.. My brain is ROTating<br>
 `Url... NV vf abg Nyybjrq... Cyrnfr Fgbc....
 VVGZPP{Y3g'f_Ebg@g3}`
 
 
-4. LOL... Sounds like Detective Movie..
+4. LOL... Sounds like Detective Movie..<br>
 [Download File Here.](/Assets/Morse_Audio_Final.wav)
 
 
 ## Easy
 
 1. If you cant see... It doesn't mean Nothing is there...<br>
-Dont be afraid.... I was talking about shadows and darkness...
-<br>
+Dont be afraid.... I was talking about shadows and darkness...<br>
 [Download File Here.](/Assets/Same%20Color%20Final.png) 
 
 
@@ -57,7 +54,7 @@ Dont be afraid.... I was talking about shadows and darkness...
 1. Once a person said, "Inner Beauty is more Important"<br>
 [Click Here](/Site/index.html)
 
-2. I'm OP.... If i say NO, Even Google have to Listen ME... I tell them Where TO and Not To Go....
+2. I'm OP.... If i say NO, Even Google have to Listen ME... I tell them Where TO and Not To Go....<br>
 [Click Here](/Site/index.html) 
 
 3. 12.991689124646834, 80.23371734829608
